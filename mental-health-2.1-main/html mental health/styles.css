@@ -1,6 +1,12 @@
+html, body  {
+    height: 100%;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     background: linear-gradient(135deg, #6a11cb, #2575fc, #ffcc00);
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -22,6 +28,12 @@ h1 {
 }
 h2 {
     color: white; /* Hlavní podnadpisy jsou zpět bílé */
+}
+h3 {
+    font-size: 1px;
+}
+p {
+    font-size: x-large;
 }
 .tip strong {
     color: black; /* Nadpisy uvnitř doporučení zůstávají černé */
