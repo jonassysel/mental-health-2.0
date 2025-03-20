@@ -1,5 +1,5 @@
 body {
-    background-image: url('/tlacitka/images/Backround.png.png'); 
+    background-image: url('../tlacitka/images/Backround.png.png'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
